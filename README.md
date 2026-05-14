@@ -1,4 +1,4 @@
-# Financial Statement Analysis — Infosys Limited (FY2022–FY2024)
+# Financial Statement Analysis — Infosys Limited (FY2023–FY2025)
 
 ## Objective
 Analyze 3 years of Infosys Limited's standalone financial statements 
@@ -8,7 +8,7 @@ standard accounting ratios.
 ## Company Analyzed
 **Infosys Limited (NSE: INFY)**  
 India's second-largest IT services company.  
-Period: FY2022, FY2023, FY2024  
+Period: FY2023, FY2024, FY2025  
 Data Source: Standalone Financial Statements from official Infosys Annual Reports
 
 ## Ratios Calculated (11 Total)
@@ -41,9 +41,9 @@ Data Source: Standalone Financial Statements from official Infosys Annual Report
 | Source_Notes | Data sources, page references, and assumptions |
 
 ## Screenshots
-![Ratio Table](/home/mtharineesh/Pictures/Screenshots/ratio_table.png)
-![Liquidity Trend](/home/mtharineesh/Pictures/Screenshots/liquidity_trend.png)
-![Profitability Trend](/home/mtharineesh/Pictures/Screenshots/profitability_trend.png)
+![Ratio Table](screenshots/ratio_table.png)
+![Liquidity Trend](screenshots/liquidity_trend.png)
+![Profitability Trend](screenshots/profitability_trend.png)
 
 ## How to Open
 Download `Infosys_Financial_Analysis_TharineeshM.xlsx` and open in Microsoft Excel 2016 or later.
